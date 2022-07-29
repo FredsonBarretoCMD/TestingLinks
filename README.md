@@ -1,6 +1,5 @@
 # TestingLinks
 just testing deeplinks
-[comdinheiro://carteiras/NMJ](comdinheiro://carteiras/NMJ)
 
 [https://www.comdinheiro.com.br/carteiras/NMJ](https://www.comdinheiro.com.br/carteiras/NMJ)
 
